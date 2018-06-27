@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/donorName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="10px"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/donorCity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="10px"
+        android:text="+216 54 821 200"
+        android:textSize="14dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/donorBloodGroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="10px"
+        android:text="+216 54 821 200"
+        android:textSize="14dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/donorEmail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:padding="10px"
+        android:text="+216 54 821 200"
+        android:textSize="14dp"
+        android:textStyle="italic" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Authentication</string>
+
+    <string name="facebook_application_id" translatable="false">470058756728712</string>
+    <string name="fb_login_protocol_scheme">fb470058756728712</string>
+
+    <string name="twitter_consumer_key" translatable="false">Jx68cnKYtJqaiddkDMw93iXzr</string>
+    <string name="twitter_consumer_secret" translatable="false">bZZLPsgd2saqOpKGkgp4imOwDyfRWkVF59F5V2Kk84fzcCAlMx</string>
+</resources>

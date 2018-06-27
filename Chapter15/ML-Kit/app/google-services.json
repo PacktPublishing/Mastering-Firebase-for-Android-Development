@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "524921556",
+    "firebase_url": "https://chap8-c5f3d.firebaseio.com",
+    "project_id": "chap8-c5f3d",
+    "storage_bucket": "chap8-c5f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524921556:android:28d65794c80156ed",
+        "android_client_info": {
+          "package_name": "packt.com.chaptermlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524921556-p88i6dk9o5loephibujeppph2lbee4ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "packt.com.chaptermlkit",
+            "certificate_hash": "3c27016b61addb7698273f2e7706584c80602b46"
+          }
+        },
+        {
+          "client_id": "524921556-h4bmme8oioijfjff09dnsp9nc8gmeln5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "524921556-h4bmme8oioijfjff09dnsp9nc8gmeln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZaZ9SBIoacp1UQZa9BFUZ-CVcS2vBtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524921556-h4bmme8oioijfjff09dnsp9nc8gmeln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524921556:android:7f5c0de123221ea9",
+        "android_client_info": {
+          "package_name": "packt.com.perfmoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524921556-5lkhh7uuuli5j3p5sivpnh196jaig3jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "packt.com.perfmoni",
+            "certificate_hash": "3c27016b61addb7698273f2e7706584c80602b46"
+          }
+        },
+        {
+          "client_id": "524921556-h4bmme8oioijfjff09dnsp9nc8gmeln5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "524921556-h4bmme8oioijfjff09dnsp9nc8gmeln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZaZ9SBIoacp1UQZa9BFUZ-CVcS2vBtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524921556-h4bmme8oioijfjff09dnsp9nc8gmeln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
