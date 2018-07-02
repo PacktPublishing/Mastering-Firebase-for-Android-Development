@@ -70,7 +70,7 @@ With the following software and hardware list you can run all code files present
 **Ashok Kumar S** has been working in the mobile development domain for about eight years. He is a Google-certified engineer, a speaker at global scale conferences, and he also runs a YouTube channel called AndroidABCD for Android developers. He is an early Firebase adopter before Google acquires Firebase.
 
 He is a computer science and engineering graduate who is passionate about innovation in technology. He contributes to open source heavily to improve his e-karma.
-He has also written a book on Wear OS programming using a project-based approach, titled Android Wear Projects.
+He has also written a book on Wear OS programming using a project-based approach, titled *Android Wear Projects*.
 
 ## Other books by the authors
 * [Android Wear Projects](https://www.packtpub.com/web-development/android-wear-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787123229)
