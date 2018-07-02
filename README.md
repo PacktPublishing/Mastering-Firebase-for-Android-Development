@@ -9,7 +9,7 @@ This is the code repository for [Mastering Firebase for Android Development](htt
 ## What is this book about?
 Firebase offers a wide spectrum of tools and services to help you develop high-quality apps in a short period of time. It also allows you to build web and mobile apps quickly without managing the infrastructure.Mastering Firebase for Android Development takes you through the complete toolchain of Firebase,including the latest tools announced in Google IO 2018 such as Firebase ML-Kit, FireStore, and Firebase Predictions.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Learn about Firebase push notifications and write backend functionalities
 * Identify the root cause of an application crash and diagnose and fix bugs
 * Store different Multipurpose Internet MailExtension(MIME) type files
