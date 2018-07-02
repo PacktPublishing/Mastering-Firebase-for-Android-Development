@@ -67,7 +67,7 @@ With the following software and hardware list you can run all code files present
 * Hands-on Full Stack Development with Angular 5 and Firebase [[Packt]](https://www.packtpub.com/application-development/hands-full-stack-development-angular-5-and-firebase?utm_source=github&utm_medium=repository&utm_campaign=9781788298735) [[Amazon]](https://www.amazon.com/dp/178829873X)
 
 ## Get to Know the Author
-**Ashok Kumar S** has been working in the mobile development domain for about eight years. He is a Google-certified engineer, a speaker at global scale conferences, and he also runs a YouTube channel called AndroidABCD for Android developers. He is an early Firebase adopter before Google acquires Firebase.
+**Ashok Kumar S** has been working in the mobile development domain for about eight years. He is a Google-certified engineer, a speaker at global scale conferences, and he also runs a YouTube channel called [AndroidABCD](https://www.youtube.com/channel/UC_cQevOR230oOgQElSvI9UQ) for Android developers. He is an early Firebase adopter before Google acquires Firebase.
 
 He is a computer science and engineering graduate who is passionate about innovation in technology. He contributes to open source heavily to improve his e-karma.
 He has also written a book on Wear OS programming using a project-based approach, titled *Android Wear Projects*.
